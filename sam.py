@@ -35,5 +35,7 @@ def calculate_age():
 
         print("=== Age Calculator ===\n")
 
+        print("=== Age Calculator ===\n")
+
 if __name__ == "__main__":
     calculate_age()

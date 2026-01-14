@@ -3,6 +3,8 @@ from datetime import datetime
 def calculate_age():
     """Calculate age from birth date"""
     print("=== Age Calculator ===\n")
+
+    print("=== Age Calculator ===\n")
     
     try:
         # Get birth date from user

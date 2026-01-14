@@ -27,6 +27,8 @@ def calculate_age():
         print(f"\nYour birth date: {birth_date.strftime('%B %d, %Y')}")
         print(f"Current date: {current_date.strftime('%B %d, %Y')}")
         print(f"Your age: {age} years old")
+
+        print("=== Age Calculator ===\n")
         
     except ValueError:
         print("Error: Please enter valid numbers for year, month, and day.")

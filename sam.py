@@ -33,5 +33,7 @@ def calculate_age():
     except Exception as e:
         print(f"An error occurred: {e}")
 
+        print("=== Age Calculator ===\n")
+
 if __name__ == "__main__":
     calculate_age()

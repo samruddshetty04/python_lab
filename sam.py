@@ -5,6 +5,8 @@ def calculate_age():
     print("=== Age Calculator ===\n")
 
     print("=== Age Calculator ===\n")
+
+    
     
     try:
         # Get birth date from user
